@@ -5,7 +5,7 @@ const data = [
     gender: 'male',
     lookingfor: 'female',
     location: 'Toronto, ON',
-    image: 'https://randomuser.me/api/portraits/men/75.jpg'
+    image: 'https://randomuser.me/api/portraits/men/73.jpg'
     },
     {
     name: 'Sarah Johnson',
